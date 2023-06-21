@@ -1,3 +1,4 @@
-Desafio 1: Desenvolva uma Landing Page
+<h1 align="left"> Desafio 1: Desenvolva uma Landing Page</h1>
 
-Desafio 1: Solução
+<h2 align="left"> Desafio 1: Solução</h2>
+
